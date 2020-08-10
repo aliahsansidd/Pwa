@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1597067761580,
-  "index": "/index.html",
+  "timestamp": 1597068219666,
+  "index": "https://aliahsansidd.github.io/Pwa/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "/favicon.ico",
-        "/index.html",
-        "/main.8d450f8abab3ce4f12ae.js",
-        "/manifest.webmanifest",
-        "/polyfills.a4021de53358bb0fec14.js",
-        "/runtime.e227d1a0e31cbccbf8ec.js",
-        "/styles.3ff695c00d717f2d2a11.css"
+        "https://aliahsansidd.github.io/Pwa/favicon.ico",
+        "https://aliahsansidd.github.io/Pwa/index.html",
+        "https://aliahsansidd.github.io/Pwa/main.8d450f8abab3ce4f12ae.js",
+        "https://aliahsansidd.github.io/Pwa/manifest.webmanifest",
+        "https://aliahsansidd.github.io/Pwa/polyfills.a4021de53358bb0fec14.js",
+        "https://aliahsansidd.github.io/Pwa/runtime.e227d1a0e31cbccbf8ec.js",
+        "https://aliahsansidd.github.io/Pwa/styles.3ff695c00d717f2d2a11.css"
       ],
       "patterns": []
     },
@@ -29,14 +29,14 @@
         "ignoreVary": true
       },
       "urls": [
-        "/assets/icons/icon-128x128.png",
-        "/assets/icons/icon-144x144.png",
-        "/assets/icons/icon-152x152.png",
-        "/assets/icons/icon-192x192.png",
-        "/assets/icons/icon-384x384.png",
-        "/assets/icons/icon-512x512.png",
-        "/assets/icons/icon-72x72.png",
-        "/assets/icons/icon-96x96.png"
+        "https://aliahsansidd.github.io/Pwa/assets/icons/icon-128x128.png",
+        "https://aliahsansidd.github.io/Pwa/assets/icons/icon-144x144.png",
+        "https://aliahsansidd.github.io/Pwa/assets/icons/icon-152x152.png",
+        "https://aliahsansidd.github.io/Pwa/assets/icons/icon-192x192.png",
+        "https://aliahsansidd.github.io/Pwa/assets/icons/icon-384x384.png",
+        "https://aliahsansidd.github.io/Pwa/assets/icons/icon-512x512.png",
+        "https://aliahsansidd.github.io/Pwa/assets/icons/icon-72x72.png",
+        "https://aliahsansidd.github.io/Pwa/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
@@ -58,21 +58,21 @@
     }
   ],
   "hashTable": {
-    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "c2ed7bbd70c066bbe57c49badd99e6c40247e9c1",
-    "/main.8d450f8abab3ce4f12ae.js": "b359d9309885fa7e6bbfbcd27b2597fc92051ec7",
-    "/manifest.webmanifest": "511eaa80c88d159964f80c4faf17d344892dd989",
-    "/polyfills.a4021de53358bb0fec14.js": "b47435a9ef2a4829f2f9dfd35599bde3614981b1",
-    "/runtime.e227d1a0e31cbccbf8ec.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/styles.3ff695c00d717f2d2a11.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "https://aliahsansidd.github.io/Pwa/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://aliahsansidd.github.io/Pwa/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://aliahsansidd.github.io/Pwa/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://aliahsansidd.github.io/Pwa/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://aliahsansidd.github.io/Pwa/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://aliahsansidd.github.io/Pwa/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://aliahsansidd.github.io/Pwa/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://aliahsansidd.github.io/Pwa/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://aliahsansidd.github.io/Pwa/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://aliahsansidd.github.io/Pwa/index.html": "a1d33dd26f0dfc173acba3b60590c4313ba9edec",
+    "https://aliahsansidd.github.io/Pwa/main.8d450f8abab3ce4f12ae.js": "b359d9309885fa7e6bbfbcd27b2597fc92051ec7",
+    "https://aliahsansidd.github.io/Pwa/manifest.webmanifest": "511eaa80c88d159964f80c4faf17d344892dd989",
+    "https://aliahsansidd.github.io/Pwa/polyfills.a4021de53358bb0fec14.js": "b47435a9ef2a4829f2f9dfd35599bde3614981b1",
+    "https://aliahsansidd.github.io/Pwa/runtime.e227d1a0e31cbccbf8ec.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://aliahsansidd.github.io/Pwa/styles.3ff695c00d717f2d2a11.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   "navigationUrls": [
     {
