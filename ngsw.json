@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1597069271906,
+  "timestamp": 1597069797044,
   "index": "https://aliahsansidd.github.io/Pwa/index.html",
   "assetGroups": [
     {
@@ -45,7 +45,7 @@
     {
       "name": "restapiexample dummuy API",
       "patterns": [
-        "http:\\/\\/dummy\\.restapiexample\\.com\\/api\\/v1\\/employees"
+        "https:\\/\\/reqres\\.in\\/api\\/users"
       ],
       "strategy": "freshness",
       "maxSize": 20,
