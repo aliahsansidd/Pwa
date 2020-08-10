@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1597068474092,
+  "timestamp": 1597069271906,
   "index": "https://aliahsansidd.github.io/Pwa/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "https://aliahsansidd.github.io/Pwa/favicon.ico",
         "https://aliahsansidd.github.io/Pwa/index.html",
-        "https://aliahsansidd.github.io/Pwa/main.8d450f8abab3ce4f12ae.js",
+        "https://aliahsansidd.github.io/Pwa/main.880cfc6328c7b8087cb5.js",
         "https://aliahsansidd.github.io/Pwa/manifest.webmanifest",
         "https://aliahsansidd.github.io/Pwa/polyfills.a4021de53358bb0fec14.js",
         "https://aliahsansidd.github.io/Pwa/runtime.e227d1a0e31cbccbf8ec.js",
@@ -67,8 +67,8 @@
     "https://aliahsansidd.github.io/Pwa/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://aliahsansidd.github.io/Pwa/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://aliahsansidd.github.io/Pwa/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://aliahsansidd.github.io/Pwa/index.html": "a1d33dd26f0dfc173acba3b60590c4313ba9edec",
-    "https://aliahsansidd.github.io/Pwa/main.8d450f8abab3ce4f12ae.js": "b359d9309885fa7e6bbfbcd27b2597fc92051ec7",
+    "https://aliahsansidd.github.io/Pwa/index.html": "aad72b5b96677c1deddb35cf63cdbf8bcb28eb38",
+    "https://aliahsansidd.github.io/Pwa/main.880cfc6328c7b8087cb5.js": "238642ed400983fe6cba8987bae1659e7e40ef54",
     "https://aliahsansidd.github.io/Pwa/manifest.webmanifest": "511eaa80c88d159964f80c4faf17d344892dd989",
     "https://aliahsansidd.github.io/Pwa/polyfills.a4021de53358bb0fec14.js": "b47435a9ef2a4829f2f9dfd35599bde3614981b1",
     "https://aliahsansidd.github.io/Pwa/runtime.e227d1a0e31cbccbf8ec.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
